@@ -14,9 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,14 +26,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![desktop-design](https://github.com/mcanco/My-Challanges/assets/94782375/b27803a8-0162-4c12-b632-107bc2c1c3dc)
+![mobile-design](https://github.com/mcanco/My-Challanges/assets/94782375/79246421-fae7-42ea-b823-345d21c8ace5)
 
 ### Links
 
@@ -47,27 +38,19 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Media Query
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-<!-- 
-I had the pleasure to learn and have more understanding of the use of the div element in HTML. Appriciated the easeness in styling the div element and it's inside elements.
  
-Also, I learned the basics of CSS syntax. The use of CSS selectors to target HTML elements, centering elements, adding background images and colors, styling buttons and links
- -->
+I had the pleasure to learn and have more understanding of the use of the div element in HTML. Appreciated the easeness in styling the div element and it's inside elements.
+ 
+Also, I learned the basics of CSS syntax. The use of CSS selectors to target HTML elements, centering elements, adding background images and colors, styling buttons and links.
 
-To see how you can add code snippets, see below:
+To view code snippets, see below:
 
 ```html
   <div class="main">
@@ -202,38 +185,18 @@ button:hover {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
-<!-- 
+
   To further my leraning process, I would like to manipulate HTMl elements with the use of JavaScript(jQuery).
   
   Also, I would like to use some CSS elements such as positioning, float, pseudo-elements and animation.
- -->
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
-<!-- 
-  - I mostly used *CSS Notes for Professionals* book to tackle my struggles, and I would recommend to anyone with no home internet as reference guide.  
- -->
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+  - I mostly used *CSSNotesforProfessionals* book to tackle my struggles, and I would recommend to anyone with no home internet as reference guide.  
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@yourusername]([https://www.frontendmentor.io/profile/mcanco])
 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
