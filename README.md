@@ -197,6 +197,6 @@ button:hover {
 
 ## Author
 
-- Frontend Mentor - [@yourusername]([https://www.frontendmentor.io/profile/mcanco])
+- Frontend Mentor - [@mcanco]([https://www.frontendmentor.io/profile/mcanco])
 
 
